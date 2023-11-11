@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AustinJNilavoor/TinkerHub-NSSCE/static/css/main.2a5a2f41.css",
+    "main.js": "/AustinJNilavoor/TinkerHub-NSSCE/static/js/main.7d420c1a.js",
+    "static/media/bg_home.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/bg_home.35956552e7dae66a129a.png",
+    "static/media/learn.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/learn.0113cceabf5b7efab54d.png",
+    "static/media/reel.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/reel.c578b7f105f50239e10f.png",
+    "static/media/traj.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/traj.32b76dec930570c9f2bc.png",
+    "static/media/anirudh.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/anirudh.14498ac979b23df79e7a.png",
+    "static/media/austin.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/austin.d16ab920ad2ba8bbb1a8.png",
+    "static/media/swathy.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/swathy.836e8bce3ae81f663690.png",
+    "static/media/Abhijith.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/Abhijith.36a23a8487b91e2b1f1b.png",
+    "static/media/malavika.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/malavika.68902cd28cb520a936b2.png",
+    "static/media/tinkher.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/tinkher.a41ecab55d842d9e2e50.png",
+    "static/media/pravda.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/pravda.18316048db70b4bc0514.png",
+    "static/media/Bg1.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/Bg1.028cbcf3dd90ad98a742.png",
+    "static/media/abhinav.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/abhinav.f5a9d6bcae1c433c333a.png",
+    "static/media/web.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/web.94b3525b0161c6153669.png",
+    "static/media/bg_grey.png": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/bg_grey.71ac7b1dcd757ce094cc.png",
+    "static/media/logo.svg": "/AustinJNilavoor/TinkerHub-NSSCE/static/media/logo.53c417c1eccd7a8128bff38879ba377d.svg",
+    "index.html": "/AustinJNilavoor/TinkerHub-NSSCE/index.html",
+    "main.2a5a2f41.css.map": "/AustinJNilavoor/TinkerHub-NSSCE/static/css/main.2a5a2f41.css.map",
+    "main.7d420c1a.js.map": "/AustinJNilavoor/TinkerHub-NSSCE/static/js/main.7d420c1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a5a2f41.css",
+    "static/js/main.7d420c1a.js"
+  ]
+}
